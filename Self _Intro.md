@@ -13,4 +13,4 @@ Provided personalized product recommendations based on customer data.
 Evaluated performance using Precision, Recall, and F1-score.
 Technologies: Python (NLTK, spaCy, scikit-learn), pandas, NumPy.
 
-Beyond technical expertise, I excel at working both independently and collaboratively, effectively managing projects, and driving impactful AI solutions. My problem-solving skills and analytical mindset help me tackle complex challenges efficiently.
+Beyond technical expertise, I excel at working both independently and collaboratively, effectively managing projects, and driving impactful AI solutions. I am passionate about leveraging AI to solve real-world problems and create meaningful impact.
