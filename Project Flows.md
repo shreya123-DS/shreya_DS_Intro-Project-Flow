@@ -1,16 +1,34 @@
 # PROJECT FLOWS
-## 1. PROJECT: Generative AI Based Content Creation
-  Problem Statement:The manual creation of product descriptions for retail websites is a time-consuming and labor-intensive process. As product catalogs grow, it becomes increasingly difficult to maintain consistency and efficiency in generating high-quality descriptions.
-Solution:
-We developed and fine-tuned a Generative AI model (GPT) to automate the generation of personalized product descriptions. This AI-powered solution eliminates the need for manual content creation, enabling faster and more consistent product descriptions.
-Objective:The objective of this project is to reduce the manual effort involved in product catalog creation, improving efficiency by 50% through automation. The model will generate domain-specific content for retail websites, saving time and ensuring accuracy.
-Project Flow:
-Data Collection & Preprocessing: Gather and clean product description data to train the model effectively.
-Model Selection & Fine-Tuning: Fine-tune a pre-trained GPT model with domain-specific data to enhance its understanding of retail terminology.
-Model Training & Evaluation: Train the model, then evaluate it using BLEU scores to ensure the quality and relevance of the generated content.
-Automation: Integrate the model into the catalog management system to automate the generation of product descriptions.
-Vocabulary Integration: Add industry-specific vocabulary to improve the contextual accuracy of the descriptions.
-Deployment & Scaling: Deploy the model for real-time use and scale it for handling larger catalogs and additional product types.
+## 1. Project: AI Chatbots for Retail Customer Support
+ Description:
+ Developed an AI-driven chatbot to enhance customer engagement, automate support processes, and improve the overall shopping experience in retail.
+
+ Roles and Responsibilities:
+ 1.Chatbot Design & Implementation:
+    1. Designed and developed chatbot workflows to ensure smooth and natural conversations.
+     2.Implemented Natural Language Understanding (NLU) to handle diverse customer queries.
+
+2.Intent Recognition & Entity Extraction:
+     1. Built models to accurately recognize user intent and extract relevant information using NLP techniques.
+     2. Utilized NLTK, spaCy, and scikit-learn for text processing and classification.
+
+3.Personalized Product Recommendations:
+   1. Leveraged customer data (purchase history, preferences) to suggest relevant products.
+    2.Integrated recommendations based on browsing behavior and current trends to enhance sales.
+
+Performance Optimization & Documentation:
+  1.Evaluated chatbot accuracy using Precision, Recall, and F1-score for continuous improvement.
+  2.Documented processes to ensure scalability and alignment with business goals.
+
+Tools & Techniques Used:
+Programming & NLP: Python, NLTK, spaCy, scikit-learn
+Data Processing: pandas, NumPy
+Evaluation Metrics: Precision, Recall, F1-score
+
+How to Explain in an Interview:
+Example Answer:
+"I developed an AI-powered chatbot for retail customer support, focusing on automating responses and enhancing user engagement. I designed the chatbot workflow, implemented intent recognition and entity extraction using NLP techniques, and built a recommendation system based on customer data and browsing behavior. I also optimized performance by evaluating Precision, Recall, and F1-score. This chatbot streamlined customer interactions, improving efficiency and enhancing the 
+shopping experience."
 
 
 ## 2.PROJECT:Customer Churn Prediction Model
